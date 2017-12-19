@@ -1,0 +1,7 @@
+C:\Users\Kirito\Desktop\XFSConverter\XFSConverter\bin\Debug\XFSConverter.exe.config
+C:\Users\Kirito\Desktop\XFSConverter\XFSConverter\bin\Debug\XFSConverter.exe
+C:\Users\Kirito\Desktop\XFSConverter\XFSConverter\bin\Debug\XFSConverter.pdb
+C:\Users\Kirito\Desktop\XFSConverter\XFSConverter\obj\Debug\XFSConverter.csprojResolveAssemblyReference.cache
+C:\Users\Kirito\Desktop\XFSConverter\XFSConverter\obj\Debug\XFSConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kirito\Desktop\XFSConverter\XFSConverter\obj\Debug\XFSConverter.exe
+C:\Users\Kirito\Desktop\XFSConverter\XFSConverter\obj\Debug\XFSConverter.pdb
